@@ -1,4 +1,6 @@
-[logo.png]
+[[bm-logo.png]]
+
+
 
 
 
