@@ -1,8 +1,3 @@
-website	username	password,website,username,password
-,.!entry,.!entry2,.!entry3
-,.!entry,.!entry2,.!entry3
-,.!entry,.!entry2,.!entry3
-,www.google.com,loadedcoal@gmail.com,helloworld1
-,www.facebook.com,loadedcoal@gmail.com,Heroinagain1*
-,www.helloworld.com,thisisatest,b'gAAAAABmNYk3O8v4XhuEj35bEGoWqtR1JhQDhiF1DIsgpfIDUBvfwhum2l_GVWS5r2-JTvQcp54fLFVY-BnBEuTH1VPvA4lAcA=='
-,anothertest.com,loadedcoal@gmail.com,b'gAAAAABmNYoyD6QJGV84GfokCnwj3Xg5Me2R6OkxTij-8DFMfmwxJrPO0pYtINPlzrmVDDY0NYFzF3k3-MgXkdudnlxzpjdwxw=='
+website,username,password
+www.google.com,loadedcoal@gmail.com,Helloworld1*
+www.facebook.com,loadedcoal@gmail.com,Helloworld1*
