@@ -11,6 +11,38 @@
          \\\ '::::' /
           `=':-..-'`
 ```
+## Update 5/7/2024
+
+Ok so for the most part everything works completely as I intended at this point. I started some basic tasks
+on my laptop, messed something up and then got carried away. Anyway it is now completely useable and all features
+work.
+
+- Password Generator Displays as a pop up in a second window. You can generate both random string passwords or 
+  random phrases and pick the length as well.
+        - This still need to be smoothed out, also I realized at the end of the sprint that normal messageboxes
+            in tkinter can not be copied and pasted or really modified so next I will be fixing that and making
+          a full on window for it.
+- Ecryption state persists between application runs and all the features that would require it work. You can leave
+  it encrypted when your not using it and un encrypt when you are with the click of a button. 
+        - This also needs perfection, as of right now obviously anyone can just click the button and decrypt 
+            you data, i will leave this like this for testing simplicity until I package it. When I am ready
+            and in the end phase I will make it so you must import you key to unlock it and the key will 
+            NOT be stored on the application in the end product.
+- Everything else works great.
+
+Mostly its all visual type stuff left, I am sure its also a mess on mac and other platforms because I have only
+really ran it on my PC.
+
+### Whats next?
+
+- Build a prettier pop up window to use for all the pop up windows.
+- smooth out the apperance and make a mini theme option.
+- Go back over the code and minimize and test
+- Finalize the encryption so that the key is input to unlock it instead of being stored in the app, or I may make
+  it an option as I am sure some people would be happy with how it is.
+- Package it.
+
+
 
 ## Password Manager
 
